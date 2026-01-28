@@ -1,4 +1,4 @@
-# Tatum's Submisssion
+# Tatum's Submission
 # AIG 230 – Lab 03
 ## Text Representation and Statistical Language Models
 
